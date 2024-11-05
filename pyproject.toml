@@ -1,0 +1,10 @@
+[tool.poetry]
+name = "TravelAgent"
+version = "0.1.0"
+description = "A travel agent that helps you plan your trips"
+authors = ["Jenna Goodrich"]
+
+[tool.poetry.dependencies]
+python = ">=3.10.0,<3.12"
+streamlit = "1.39.0"
+
