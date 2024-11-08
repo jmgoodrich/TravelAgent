@@ -6,7 +6,7 @@ authors = ["Jenna Goodrich"]
 
 [tool.poetry.dependencies]
 python = ">=3.10,<3.12"
-streamlit = "1.39.0"
+streamlit = "1.40.0"
 python-dotenv = "^1.0.1"
 langchain = "^0.3,<0.4"
 langchain-community = "^0.3,<0.4"
