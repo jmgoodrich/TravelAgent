@@ -14,27 +14,13 @@ load_dotenv()
 
 llm = ChatAnthropic(model="claude-3-haiku-20240307", max_tokens=500)
 
-# amadeus_client = Client(
-#     client_id=os.getenv("AMADEUS_CLIENT_ID"),
-#     client_secret=os.getenv("AMADEUS_CLIENT_SECRET"),
-# )
-
-# toolkit = AmadeusToolkit(client=amadeus_client, llm=llm)
-# tools = toolkit.get_tools()
-
-# prompt = hub.pull("hwchase17/react")
-# agent = create_react_agent(llm=llm, prompt=prompt)
-
-# agent_executor = AgentExecutor(agent=agent, handle_parsing_errors=True)
-
-
-airports_csv = read_csv("./airports.csv")
-airports = {
-    "airport": airports_csv["AIRPORT"].tolist(),
-    "city": airports_csv["CITY"].tolist(),
-    "state": airports_csv["STATE"].tolist(),
-    "code": airports_csv["IATA"].tolist(),
-}
+# airports_csv = read_csv("./airports.csv")
+# airports = {
+#     "airport": airports_csv["AIRPORT"].tolist(),
+#     "city": airports_csv["CITY"].tolist(),
+#     "state": airports_csv["STATE"].tolist(),
+#     "code": airports_csv["IATA"].tolist(),
+# }
 
 st.title("Travel Itinerary Planner")
 with st.container():
