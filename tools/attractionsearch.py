@@ -1,8 +1,7 @@
-import pandas as pd
 from pandas import DataFrame
 from langchain.tools import BaseTool
 from pydantic import BaseModel, Field
-from typing import Optional, Type
+from typing import Type
 
 class AttractionInput(BaseModel):
     data: DataFrame = Field(..., description="The attraction data to search")
@@ -20,6 +19,6 @@ class AttractionSearch(BaseTool):
         results = data[data['City'] == city]
 
         if results.empty:
-            return "No attractions found in this city"
+            return "No attractions found"
 
         return results 

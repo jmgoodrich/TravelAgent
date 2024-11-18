@@ -1,8 +1,7 @@
-import pandas as pd
 from pandas import DataFrame
 from langchain.tools import BaseTool
 from pydantic import BaseModel, Field
-from typing import Optional, Type
+from typing import Type
 
 class FlightInput(BaseModel):
     data: DataFrame = Field(..., description="The flight data to search")

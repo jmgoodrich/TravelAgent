@@ -19,6 +19,6 @@ class AccommodationSearch(BaseTool):
         results = data[data['city'] == city]
 
         if results.empty:
-            return "No accommodations found in this city"
+            return "No accommodations found"
 
         return results 
