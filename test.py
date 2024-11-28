@@ -3,8 +3,8 @@ from tools.attractionsearch import AttractionSearch
 from tools.accommodationsearch import AccommodationSearch
 import pandas as pd
 
-flight_csv = pd.read_csv("./database/flights.csv").dropna()[['Flight Number', 'Price', 'DepTime', 'ArrTime', 'ActualElapsedTime','FlightDate','OriginCityName','DestCityName','Distance']]
-attractions_csv = pd.read_csv("./database/attractions.csv").drop(columns=['Latitude', 'Longitude', 'Phone', 'Website'])
+flight_csv = pd.read_csv("./database/flights.csv").dropna()[['Flight Number', 'Price', 'DepTime', 'ArrTime','FlightDate','OriginCityName','DestCityName']]
+attractions_csv = pd.read_csv("./database/attractions.csv").drop(columns=['Latitude', 'Longitude', 'Phone', 'Website', 'Address'])
 accommodations_csv = pd.read_csv("./database/accommodations.csv").dropna()[['NAME','price','room type','house_rules', 'minimum nights', 'maximum occupancy', 'city']]
 
 flight_tool = FlightSearch()
@@ -30,3 +30,4 @@ result_accom = accommodations_tool.run({
 print(result_flights)
 print(result_attr)
 print(result_accom)
+

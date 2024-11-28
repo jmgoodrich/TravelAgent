@@ -1,3 +1,3 @@
 # Travel Agent
 
-An LLM-powered travel assistant and itinerary planner that uses Langchain, Streamlit, and various APIs to produce results.
+An LLM-powered travel assistant that uses LangChain, Streamlit, and various custom LangChain tools to produce a travel itinerary. A partial/simplified recreation of [TravelPlanner](https://arxiv.org/pdf/2402.01622).
