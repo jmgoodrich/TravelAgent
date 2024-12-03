@@ -1,0 +1,2305 @@
+"Generate a 3-day travel itinerary from 2022-03-16 to 2022-03-18, for 1 person, traveling from St. Petersburg to Rockford with a budget of $1700.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from St. Petersburg to Rockford"",
+            ""transportation"": ""Flight Number: F3573659, from St. Petersburg to Rockford, Departure Time: 15:40, Arrival Time: 17:04"",
+            ""attraction"": ""Burpee Museum of Natural History, Rockford; Midway Village Museum, Rockford."",
+            ""accommodation"": ""Spacious 3BDR Prime Location!, Rockford""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Rockford"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Discovery Center Museum, Rockford; Tinker Swiss Cottage Museum and Gardens, Rockford; Anderson Japanese Gardens, Rockford."",
+            ""accommodation"": ""Spacious 3BDR Prime Location!, Rockford""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Rockford to St. Petersburg"",
+            ""transportation"": ""Flight Number: F3573120, from Rockford to St. Petersburg, Departure Time: 19:00, Arrival Time: 22:43"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-03 to 2022-03-05, for 1 person, traveling from Las Vegas to Stockton with a budget of $1400.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""From Las Vegas to Stockton"",
+            ""transportation"": ""Flight Number: F3576711, from Las Vegas to Stockton, Departure Time: 06:01, Arrival Time: 07:28"",
+            ""attraction"": ""Children's Museum, Stockton; Haggin Museum, Stockton"",
+            ""accommodation"": ""Waterfront, perfect NYC getaway!, Stockton""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Stockton"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Louis Park, Stockton; Stockton Water Tower, Stockton; Miracle Mile, Stockton; Buckley Cove Park, Stockton; Wat Dhammararam Buddhist Temple, Stockton; Joan Darrah Promenade, Stockton; Stockton Diamond Railroad Crossing, Stockton; American Legion Park, Stockton; Mexican Heritage Center & Gallery, Stockton; Visit Stockton, Stockton; Upper Stockton Diamond Railroad Crossing, Stockton; Stockton Field Aviation Museum, Stockton; Sousa Park, Stockton; Stockton Arena, Stockton; Shumway Oak Grove Regional Park, Stockton; Garrigan Park, Stockton; Gibbons Park, Stockton; Filipino American National Historical Society, Stockton"",
+            ""accommodation"": ""Waterfront, perfect NYC getaway!, Stockton""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""From Stockton to Las Vegas"",
+            ""transportation"": ""Flight Number: F3576850, from Stockton to Las Vegas, Departure Time: 13:42, Arrival Time: 15:03"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-12 to 2022-03-14, for 1 person, traveling from Las Vegas to Denver with a budget of $1600.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Las Vegas to Denver"",
+            ""transportation"": ""Flight Number: F3877057, from Las Vegas to Denver, Departure Time: 05:52, Arrival Time: 08:35"",
+            ""attraction"": ""Denver Zoo, Denver; Denver Botanic Gardens, Denver."",
+            ""accommodation"": ""Harlem cozy nights, Denver""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Denver"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Denver Art Museum, Denver; Denver Museum of Nature & Science, Denver."",
+            ""accommodation"": ""Harlem cozy nights, Denver""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Denver to Las Vegas"",
+            ""transportation"": ""Flight Number: F3977668, from Denver to Las Vegas, Departure Time: 08:44, Arrival Time: 09:37"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-14 to 2022-03-16, for 2 people, traveling from Sacramento to Atlanta with a budget of $4700. Accommodation must allow parties.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Sacramento to Atlanta"",
+            ""transportation"": ""Flight Number: F3510904, from Sacramento to Atlanta, Departure Time: 06:55, Arrival Time: 14:09"",
+            ""attraction"": ""Atlanta Botanical Garden, Atlanta; World of Coca-Cola, Atlanta."",
+            ""accommodation"": ""Charming Carroll Gardens 2 BR, Atlanta""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Atlanta"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Georgia Aquarium, Atlanta; Martin Luther King, Jr. National Historical Park, Atlanta."",
+            ""accommodation"": ""Charming Carroll Gardens 2 BR, Atlanta""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Atlanta to Sacramento"",
+            ""transportation"": ""Flight Number: F3527027, from Atlanta to Sacramento, Departure Time: 08:56, Arrival Time: 10:42"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-20 to 2022-03-22, for 2 people, traveling from Houston to Fayetteville with a budget of $1500. Accommodation must allow children.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Houston to Fayetteville"",
+            ""transportation"": ""Flight Number: F3923211, from Houston to Fayetteville, Departure Time: 14:30, Arrival Time: 16:17"",
+            ""attraction"": ""The Fayetteville Area Transportation and Local History Museum, Fayetteville; Museum of the Cape Fear, Fayetteville."",
+            ""accommodation"": ""*CoZy Private Williamsburg Home*, Fayetteville""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Fayetteville"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Lake Rim Park, Fayetteville; Airborne & Special Operations Museum Foundation, Fayetteville."",
+            ""accommodation"": ""*CoZy Private Williamsburg Home*, Fayetteville""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Fayetteville to Houston"",
+            ""transportation"": ""Flight Number: F3922249, from Fayetteville to Houston, Departure Time: 19:18, Arrival Time: 20:52"",
+            ""attraction"": ""Fascinate-U Children's Museum, Fayetteville."",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-21 to 2022-03-23, for 3 people, traveling from Bangor to Washington with a budget of $3100. Accommodation must allow pets. The room should be a(n) entire room.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Bangor to Washington"",
+            ""transportation"": ""Flight Number: F3787709, from Bangor to Washington, Departure Time: 05:38, Arrival Time: 07:22"",
+            ""attraction"": ""Seattle Aquarium, Washington; Beneath the Streets, Washington; The Gum Wall, Washington."",
+            ""accommodation"": ""Cozy LIC Loft-Style Apt- Minutes to Manhattan, Washington""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Washington"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Wings Over Washington, Washington; Discovery Park, Washington; Washington Park Arboretum, Washington."",
+            ""accommodation"": ""Cozy LIC Loft-Style Apt- Minutes to Manhattan, Washington""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Washington to Bangor"",
+            ""transportation"": ""Flight Number: F3797033, from Washington to Bangor, Departure Time: 21:54, Arrival Time: 23:30"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-07 to 2022-03-09, for 3 people, traveling from Atlanta to Chattanooga with a budget of $3600. The room should be a(n) entire room.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Atlanta to Chattanooga"",
+            ""transportation"": ""Flight Number: F3648407, from Atlanta to Chattanooga, Departure Time: 12:43, Arrival Time: 13:29"",
+            ""attraction"": ""The Chattanooga Zoo at Warner Park, Chattanooga; Rock City Gardens, Chattanooga."",
+            ""accommodation"": ""Luxury & Charm. Steps from Christopher Park!, Chattanooga""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Chattanooga"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Tennessee Aquarium, Chattanooga; Coolidge Park, Chattanooga."",
+            ""accommodation"": ""Luxury & Charm. Steps from Christopher Park!, Chattanooga""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Chattanooga to Atlanta"",
+            ""transportation"": ""Flight Number: F3780258, from Chattanooga to Atlanta, Departure Time: 06:58, Arrival Time: 07:45"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-02 to 2022-03-04, for 1 person, traveling from Buffalo to Atlanta with a budget of $1100.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Buffalo to Atlanta"",
+            ""transportation"": ""Flight Number: F3555201, from Buffalo to Atlanta, Departure Time: 12:44, Arrival Time: 14:33"",
+            ""attraction"": ""Georgia Aquarium, Atlanta; World of Coca-Cola, Atlanta."",
+            ""accommodation"": ""Bright, Modern, Clean, Spacious, Brooklyn Home, Atlanta""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Atlanta"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Centennial Olympic Park, Atlanta; High Museum of Art, Atlanta."",
+            ""accommodation"": ""Bright, Modern, Clean, Spacious, Brooklyn Home, Atlanta""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Atlanta to Buffalo"",
+            ""transportation"": ""-Flight Number: F3500648, from Atlanta to Buffalo, Departure Time: 21:24, Arrival Time: 23:26",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-04 to 2022-03-06, for 1 person, traveling from Ontario to Honolulu with a budget of $3200.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Ontario to Honolulu"",
+            ""transportation"": ""Flight Number: F3584294, from Ontario to Honolulu, Departure Time: 10:11, Arrival Time: 14:46"",
+            ""attraction"": ""Iolani Palace, Honolulu; Bishop Museum, Honolulu; Aloha Tower, Honolulu."",
+            ""accommodation"": ""Park, Subway & All Conveniences, Honolulu""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""from Ontario to Honolulu"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Honolulu Zoo, Honolulu; Waikiki Aquarium, Honolulu; Waikīkī Beach, Honolulu."",
+            ""accommodation"": ""Park, Subway & All Conveniences, Honolulu""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Honolulu to Ontario"",
+            ""transportation"": ""Flight Number: F3584327, from Honolulu to Ontario, Departure Time: 14:35, Arrival Time: 22:02"",
+            ""attraction"": ""Honolulu Museum of Art (HoMA), Honolulu; Duke Paoa Kahanamoku Statue, Honolulu."",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-05 to 2022-03-07, for 1 person, traveling from Detroit to San Diego with a budget of $3000.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Detroit to San Diego"",
+            ""transportation"": ""Flight Number: F3528556, from Detroit to San Diego, Departure Time: 08:33, Arrival Time: 10:36"",
+            ""attraction"": ""Cabrillo National Monument, San Diego; La Jolla Shores Park, San Diego."",
+            ""accommodation"": ""Spacious Room in Large 2 Bedroom Prewar Apartment, San Diego""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""San Diego"",
+            ""transportation"": ""-"",
+            ""attraction"": ""California Tower, San Diego; SeaWorld San Diego, San Diego; Old Town San Diego, San Diego."",
+            ""accommodation"": ""Spacious Room in Large 2 Bedroom Prewar Apartment, San Diego""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from San Diego to Detroit"",
+            ""transportation"": ""Flight Number: F3519973, from San Diego to Detroit, Departure Time: 22:22, Arrival Time: 05:24"",
+            ""attraction"": ""Balboa Park, San Diego; Seaport Village, San Diego."",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-23 to 2022-03-25, for 1 person, traveling from Missoula to Dallas with a budget of $1900.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Missoula to Dallas"",
+            ""transportation"": ""Flight Number: F3604254, from Missoula to Dallas, Departure Time: 14:27, Arrival Time: 18:26"",
+            ""attraction"": ""The Dallas World Aquarium, Dallas; The Sixth Floor Museum at Dealey Plaza, Dallas."",
+            ""accommodation"": ""Charming Suite in Historic Home, Dallas""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Dallas"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Reunion Tower, Dallas; Dallas Museum of Art, Dallas; The Dallas Arboretum and Botanical Garden, Dallas."",
+            ""accommodation"": ""Charming Suite in Historic Home, Dallas""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Dallas to Missoula"",
+            ""transportation"": ""Flight Number: F3604227, from Dallas to Missoula, Departure Time: 11:28, Arrival Time: 13:48"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-28 to 2022-03-30, for 1 person, traveling from Boston to San Juan with a budget of $1400.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Boston to San Juan"",
+            ""transportation"": ""Flight Number: F3619758, from Boston to San Juan, Departure Time: 08:17, Arrival Time: 12:48"",
+            ""attraction"": ""Castillo San Felipe del Morro, San Juan; Paseo de La Princesa, San Juan."",
+            ""accommodation"": ""*WINTER DISCOUNT WILLIAMSBURG CHIC W/PRIVATE P..., San Juan""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""San Juan"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Parque de las Palomas, San Juan; Casa Blanca, San Juan; Castillo San Crist\u00f3bal, San Juan."",
+            ""accommodation"": ""*WINTER DISCOUNT WILLIAMSBURG CHIC W/PRIVATE P..., San Juan""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from San Juan to Boston"",
+            ""transportation"": ""Flight Number: F3764590, from San Juan to Boston, Departure Time: 18:50, Arrival Time: 23:02"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-02 to 2022-03-04, for 1 person, traveling from Sarasota to Philadelphia with a budget of $2100.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Sarasota to Philadelphia"",
+            ""transportation"": ""Flight Number: F3797423, from Sarasota to Philadelphia, Departure Time: 11:54, Arrival Time: 14:46"",
+            ""attraction"": ""The Franklin Institute, Philadelphia; Independence National Historical Park, Philadelphia."",
+            ""accommodation"": ""Brooklyn Room in Hip Neighborhood - Close to Transportation, Philadelphia""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Philadelphia"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Philadelphia's Magic Gardens, Philadelphia; Philadelphia Museum of Art, Philadelphia."",
+            ""accommodation"": ""Brooklyn Room in Hip Neighborhood - Close to Transportation, Philadelphia""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Philadelphia to Sarasota"",
+            ""transportation"": ""Flight Number: F3559150, from Philadelphia to Sarasota, Departure Time: 19:20, Arrival Time: 21:48"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-29 to 2022-03-31, for 1 person, traveling from Minneapolis to Seattle with a budget of $1800.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Minneapolis to Seattle"",
+            ""transportation"": ""Flight Number: F3526653, from Minneapolis to Seattle, Departure Time: 08:51, Arrival Time: 10:11"",
+            ""attraction"": ""Seattle Aquarium, Seattle; The Seattle Great Wheel, Seattle."",
+            ""accommodation"": ""Shared Apartment by Times Square Manhattan, Seattle""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Seattle"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Chihuly Garden and Glass, Seattle; Olympic Sculpture Park, Seattle."",
+            ""accommodation"": ""Shared Apartment by Times Square Manhattan, Seattle""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Seattle to Minneapolis"",
+            ""transportation"": ""Flight Number: F3509967, from Seattle to Minneapolis, Departure Time: 00:44, Arrival Time: 06:19"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-29 to 2022-03-31, for 1 person, traveling from St. Louis to Las Vegas with a budget of $1300.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from St. Louis to Las Vegas"",
+            ""transportation"": ""Flight Number: F3963082, from St. Louis to Las Vegas, Departure Time: 08:34, Arrival Time: 10:03"",
+            ""attraction"": ""The Mob Museum, Las Vegas; Eiffel Tower Viewing Deck, Las Vegas."",
+            ""accommodation"": ""Cozy modern stay, Las Vegas""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Las Vegas"",
+            ""transportation"": ""-"",
+            ""attraction"": ""AREA15, Las Vegas; The Neon Museum Las Vegas, Las Vegas."",
+            ""accommodation"": ""Cozy modern stay, Las Vegas""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Las Vegas to St. Louis"",
+            ""transportation"": ""Flight Number: F3991096, from Las Vegas to St. Louis, Departure Time: 14:33, Arrival Time: 19:30"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-03 to 2022-03-05, for 1 person, traveling from Spokane to San Francisco with a budget of $1200.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Spokane to San Francisco"",
+            ""transportation"": ""Flight Number: F3818870, from Spokane to San Francisco, Departure Time: 17:38, Arrival Time: 19:54"",
+            ""attraction"": ""Golden Gate Bridge, Golden Gate Park, PIER 39"",
+            ""accommodation"": ""Cozy, spacious Studio located on Upper East Side, San Francisco""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""San Francisco"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Coit Tower, Union Square, Exploratorium, San Francisco Botanical Garden, San Francisco Museum of Modern Art"",
+            ""accommodation"": ""Cozy, spacious Studio located on Upper East Side, San Francisco""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from San Francisco to Spokane"",
+            ""transportation"": ""Flight Number: F3840215, from San Francisco to Spokane, Departure Time: 16:21, Arrival Time: 18:29"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-01 to 2022-03-03, for 1 person, traveling from St. Louis to Washington with a budget of $1500.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from St. Louis to Washington"",
+            ""transportation"": ""Flight Number: F3937821, from St. Louis to Washington, Departure Time: 16:20, Arrival Time: 19:05"",
+            ""attraction"": ""The Gum Wall, Washington"",
+            ""accommodation"": ""Comfortable & Cozy Times Square Apt, Washington""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Washington"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Wings Over Washington, Washington; International Fountain, Washington."",
+            ""accommodation"": ""Comfortable & Cozy Times Square Apt, Washington""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Washington to St. Louis"",
+            ""transportation"": ""Flight Number: F3949461, from Washington to St. Louis, Departure Time: 14:49, Arrival Time: 16:09"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-27 to 2022-03-29, for 1 person, traveling from Denver to Palm Springs with a budget of $2200.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Denver to Palm Springs"",
+            ""transportation"": ""Flight Number: F3880936, from Denver to Palm Springs, Departure Time: 17:08, Arrival Time: 18:13"",
+            ""attraction"": ""Palm Springs Art Museum, Palm Springs; Walk of the Stars Palm Springs, Palm Springs."",
+            ""accommodation"": ""Brooklyn Gem, Palm Springs""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Palm Springs"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Moorten Botanical Garden, Palm Springs; Palm Springs Aerial Tramway, Palm Springs."",
+            ""accommodation"": ""Brooklyn Gem, Palm Springs""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Palm Springs to Denver"",
+            ""transportation"": ""Flight Number: F3870938, from Palm Springs to Denver, Departure Time: 13:50, Arrival Time: 16:50"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-24 to 2022-03-26, for 1 person, traveling from Providence to Orlando with a budget of $1800.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Providence to Orlando"",
+            ""transportation"": ""Flight Number: F3763889, from Providence to Orlando, Departure Time: 16:12, Arrival Time: 19:47"",
+            ""attraction"": ""Gatorland, Orlando; The Wizarding World of Harry Potter - Diagon Alley, Orlando."",
+            ""accommodation"": ""Rare Find: SUNNY, LARGE DUPLEX Chelsea 2BR 2BA, Orlando""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Orlando"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Universal Orlando Resort, Orlando; The Wizarding World of Harry Potter - Hogsmeade, Orlando."",
+            ""accommodation"": ""Rare Find: SUNNY, LARGE DUPLEX Chelsea 2BR 2BA, Orlando""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Orlando to Providence"",
+            ""transportation"": ""Flight Number: F3764139, from Orlando to Providence, Departure Time: 22:06, Arrival Time: 00:52"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-14 to 2022-03-16, for 4 people, traveling from New York to Reno with a budget of $11300. Accommodation must allow children.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from New York to Reno"",
+            ""transportation"": ""Flight Number: F3767722, from New York to Reno, Departure Time: 21:02, Arrival Time: 00:07"",
+            ""attraction"": ""Nevada Museum of Art, Reno; The Discovery, Reno."",
+            ""accommodation"": ""Entire suite with breathtaking views of NYC, Reno""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Reno"",
+            ""transportation"": ""-"",
+            ""attraction"": ""National Automobile Museum, Reno; Fleischmann Planetarium, Reno; Rancho San Rafael Regional Park, Reno."",
+            ""accommodation"": ""Entire suite with breathtaking views of NYC, Reno""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Reno to New York"",
+            ""transportation"": ""Flight Number: F3765934, from Reno to New York, Departure Time: 01:59, Arrival Time: 10:10"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-24 to 2022-03-26, for 2 people, traveling from Milwaukee to New York with a budget of $1900. The room should be a(n) private room.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Milwaukee to New York"",
+            ""transportation"": ""Flight Number: F3643145, from Milwaukee to New York, Departure Time: 05:55, Arrival Time: 09:17"",
+            ""attraction"": ""Top of The Rock, New York"",
+            ""accommodation"": ""Charming Bright Room in Bed Stuy Brownstone, New York""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""New York"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Empire State Building, New York; The High Line, New York"",
+            ""accommodation"": ""Charming Bright Room in Bed Stuy Brownstone, New York""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from New York to Milwaukee"",
+            ""transportation"": ""Flight Number: F3644990, from New York to Milwaukee, Departure Time: 15:20, Arrival Time: 16:27"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-12 to 2022-03-14, for 7 people, traveling from Salt Lake City to Burbank with a budget of $7600. The room should be a(n) entire room.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""From Salt Lake City to Burbank"",
+            ""transportation"": ""Flight Number: F3846293, from Salt Lake City to Burbank, Departure Time: 15:29, Arrival Time: 16:21"",
+            ""attraction"": ""Warner Bros. Studio Tour Hollywood, Burbank"",
+            ""accommodation"": ""River View Apartment, Burbank""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Burbank"",
+            ""transportation"": ""-"",
+            ""attraction"": ""The Mystic Museum, Burbank; Burbank Aviation Museum, Burbank"",
+            ""accommodation"": ""River View Apartment, Burbank""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""From Burbank to Salt Lake City"",
+            ""transportation"": ""Flight Number: F3848172, from Burbank to Salt Lake City, Departure Time: 07:17, Arrival Time: 10:05"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-29 to 2022-03-31, for 5 people, traveling from Manchester to Charlotte with a budget of $4800. The room should be a(n) entire room.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Manchester to Charlotte"",
+            ""transportation"": ""Flight Number: F3785421, from Manchester to Charlotte, Departure Time: 14:16, Arrival Time: 16:46"",
+            ""attraction"": ""The Charlotte Museum of History, Charlotte"",
+            ""accommodation"": ""Entire home/apt: Luxury 2 bdr/2 bath prime Williamburg, Charlotte""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Charlotte"",
+            ""transportation"": ""-"",
+            ""attraction"": ""The Mint Museum, Charlotte; Romare Bearden Park, Charlotte"",
+            ""accommodation"": ""Entire home/apt: Luxury 2 bdr/2 bath prime Williamburg, Charlotte""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Charlotte to Manchester"",
+            ""transportation"": ""Flight Number: F3785397, from Charlotte to Manchester, Departure Time: 11:21, Arrival Time: 13:22"",
+            ""attraction"": ""Books Monument, Charlotte"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-25 to 2022-03-27, for 4 people, traveling from Baton Rouge to Dallas with a budget of $5500. Accommodation must allow smoking.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Baton Rouge to Dallas"",
+            ""transportation"": ""Flight Number: F3815330, from Baton Rouge to Dallas, Departure Time: 05:45, Arrival Time: 07:15"",
+            ""attraction"": ""The Dallas World Aquarium, Dallas"",
+            ""accommodation"": ""1498 Take it now you won't find better, Dallas""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Dallas"",
+            ""transportation"": ""-"",
+            ""attraction"": ""The Sixth Floor Museum at Dealey Plaza, Dallas; Reunion Tower, Dallas"",
+            ""accommodation"": ""1498 Take it now you won't find better, Dallas""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Dallas to Baton Rouge"",
+            ""transportation"": ""Flight Number: F3814165, from Dallas to Baton Rouge, Departure Time: 20:39, Arrival Time: 21:58"",
+            ""attraction"": ""Pioneer Plaza, Dallas"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-23 to 2022-03-25, for 2 people, traveling from Panama City to Nashville with a budget of $2900. The room should be a(n) private room.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Panama City to Nashville"",
+            ""transportation"": ""Flight Number: F3985881, from Panama City to Nashville, Departure Time: 18:07, Arrival Time: 19:13"",
+            ""attraction"": ""Country Music Hall of Fame and Museum, Nashville"",
+            ""accommodation"": ""Clean and large bedroom in a private house, Nashville""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Nashville"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Nashville Zoo at Grassmere, Nashville; Ryman Auditorium, Nashville"",
+            ""accommodation"": ""Clean and large bedroom in a private house, Nashville""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Nashville to Panama City"",
+            ""transportation"": ""Flight Number: F4012165, from Nashville to Panama City, Departure Time: 07:32, Arrival Time: 08:46"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-28 to 2022-03-30, for 2 people, traveling from Akron to Tampa with a budget of $2500.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Akron to Tampa"",
+            ""transportation"": ""Flight Number: F3620346, from Akron to Tampa, Departure Time: 19:40, Arrival Time: 21:47"",
+            ""attraction"": ""The Florida Aquarium, Tampa; Busch Gardens Tampa Bay, Tampa."",
+            ""accommodation"": ""Lovely Guestroom in Elevator Building, Tampa""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Tampa"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Adventure Island, Tampa; Henry B. Plant Museum, Tampa; Museum of Science & Industry, Tampa."",
+            ""accommodation"": ""Lovely Guestroom in Elevator Building, Tampa""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-19 to 2022-03-21, for 3 people, traveling from Houston to Wichita with a budget of $2700. Accommodation must allow smoking.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Houston to Wichita"",
+            ""transportation"": ""Flight Number: F3923935, from Houston to Wichita, Departure Time: 09:32, Arrival Time: 11:24"",
+            ""attraction"": ""Old Cowtown Museum, Wichita; Exploration Place, Wichita."",
+            ""accommodation"": ""LG Bright Apartment, Wichita""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Wichita"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Museum of World Treasures, Wichita; The Keeper of the Plains, Wichita."",
+            ""accommodation"": ""LG Bright Apartment, Wichita""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Wichita to Houston"",
+            ""transportation"": ""Flight Number: F3922844, from Wichita to Houston, Departure Time: 06:23, Arrival Time: 08:19"",
+            ""attraction"": ""Wichita Art Museum, Wichita."",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-19 to 2022-03-21, for 1 person, traveling from Houston to Wichita with a budget of $1100.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Houston to Wichita"",
+            ""transportation"": ""Flight Number: F3923935, from Houston to Wichita, Departure Time: 09:32, Arrival Time: 11:24"",
+            ""attraction"": ""Old Cowtown Museum, Wichita"",
+            ""accommodation"": ""Secret Garden Apartment in Bed Stuy, Brooklyn, Wichita""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Wichita"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Exploration Place, Wichita; Museum of World Treasures, Wichita."",
+            ""accommodation"": ""Secret Garden Apartment in Bed Stuy, Brooklyn, Wichita""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Wichita to Houston"",
+            ""transportation"": "" Flight Number: F3827493, from Wichita to Houston, Departure Time: 17:52, Arrival Time: 20:18"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-03 to 2022-03-05, for 2 people, traveling from Jacksonville to Washington with a budget of $1000. Accommodation must allow parties.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Jacksonville to Washington"",
+            ""transportation"": ""Flight Number: F3965503, from Jacksonville to Washington, Departure Time: 16:38, Arrival Time: 18:33"",
+            ""attraction"": ""Space Needle, Washington"",
+            ""accommodation"": ""Beautifully Renovated 3BD/2BA \u2606 1 Block to Subway, Washington""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Washington"",
+            ""transportation"": ""-"",
+            ""attraction"": ""The Gum Wall, Washington; International Fountain, Washington"",
+            ""accommodation"": ""Beautifully Renovated 3BD/2BA \u2606 1 Block to Subway, Washington""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Washington to Jacksonville"",
+            ""transportation"": ""Flight Number: F3786730, from Washington to Jacksonville, Departure Time: 08:48, Arrival Time: 10:58"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-03 to 2022-03-05, for 1 person, traveling from Jacksonville to Washington with a budget of $1300.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Jacksonville to Washington"",
+            ""transportation"": ""Flight Number: F3965503, from Jacksonville to Washington, Departure Time: 16:38, Arrival Time: 18:33, Flight Date: 2022-03-03"",
+            ""attraction"": ""The Gum Wall, Washington"",
+            ""accommodation"": ""Comfortable & Cozy Times Square Apt, Washington""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Washington"",
+            ""transportation"": ""-"",
+            ""attraction"": ""International Fountain, Washington; Wings Over Washington, Washington"",
+            ""accommodation"": ""Comfortable & Cozy Times Square Apt, Washington""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Washington to Jacksonville"",
+            ""transportation"": ""Flight Number: F3788187, from Washington to Jacksonville, Departure Time: 15:20, Arrival Time: 17:24, Flight Date: 2022-03-05"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-15 to 2022-03-17, for 2 people, traveling from Cleveland to Baltimore with a budget of $1700. The room should be a(n) private room.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Cleveland to Baltimore"",
+            ""transportation"": ""Flight Number: F4001024, from Cleveland to Baltimore, Departure Time: 06:30, Arrival Time: 07:33"",
+            ""attraction"": ""National Aquarium, Baltimore"",
+            ""accommodation"": ""Cozy Bedroom in best area of FiDi, Baltimore""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Baltimore"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Fort McHenry National Monument and Historic Shrine, Baltimore; The Walters Art Museum, Baltimore"",
+            ""accommodation"": ""Cozy Bedroom in best area of FiDi, Baltimore""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Baltimore to Cleveland"",
+            ""transportation"": ""Flight Number: F4007632, from Baltimore to Cleveland, Departure Time: 23:21, Arrival Time: 00:24"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-15 to 2022-03-17, for 2 people, traveling from Cleveland to Baltimore with a budget of $1700. Accommodation must allow children. The room should be a(n) entire room.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Cleveland to Baltimore"",
+            ""transportation"": ""Flight Number: F4001024, from Cleveland to Baltimore, Departure Time: 06:30, Arrival Time: 07:33"",
+            ""attraction"": ""National Aquarium, Baltimore; Fort McHenry National Monument and Historic Shrine, Baltimore"",
+            ""accommodation"": ""Cozy Family-Friendly Vintage Brownstone Living!!, Baltimore""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Baltimore"",
+            ""transportation"": ""-"",
+            ""attraction"": ""The Walters Art Museum, Baltimore; Baltimore Museum of Industry, Baltimore"",
+            ""accommodation"": ""Cozy Family-Friendly Vintage Brownstone Living!!, Baltimore""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Baltimore to Cleveland"",
+            ""transportation"": ""Flight Number: F4007631, from Baltimore to Cleveland, Departure Time: 14:56, Arrival Time: 15:59"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-15 to 2022-03-17, for 1 person, traveling from Cleveland to Baltimore with a budget of $500.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Cleveland to Baltimore"",
+            ""transportation"": ""Flight Number: F4001024, from Cleveland to Baltimore, Departure Time: 06:30, Arrival Time: 07:33"",
+            ""attraction"": ""National Aquarium, Baltimore; Fort McHenry National Monument and Historic Shrine, Baltimore."",
+            ""accommodation"": ""Beautiful Double Room - Heart of Clinton Hill, BK, Baltimore""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Baltimore"",
+            ""transportation"": ""-"",
+            ""attraction"": ""The Walters Art Museum, Baltimore; Baltimore Museum of Industry, Baltimore; Historic Ships in Baltimore, Baltimore."",
+            ""accommodation"": ""Beautiful Double Room - Heart of Clinton Hill, BK, Baltimore""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Baltimore to Cleveland"",
+            ""transportation"": ""Flight Number: F4007632, from Baltimore to Cleveland, Departure Time: 23:21, Arrival Time: 00:24"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-16 to 2022-03-18, for 3 people, traveling from Chicago to Albuquerque with a budget of $1600. The room should be a(n) private room.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Chicago to Albuquerque"",
+            ""transportation"": ""Flight Number: F3603273, from Chicago to Albuquerque, Departure Time: 17:28, Arrival Time: 19:35"",
+            ""attraction"": ""New Mexico Museum of Natural History and Science, Albuquerque; Albuquerque Museum, Albuquerque."",
+            ""accommodation"": ""Harlem apartment, Albuquerque""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Albuquerque"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Explora Science Center and Children's Museum of Albuquerque, Albuquerque; Turquoise Museum, Albuquerque."",
+            ""accommodation"": ""Harlem apartment, Albuquerque""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Albuquerque to Chicago"",
+            ""transportation"": ""Flight Number: F3603216, from Albuquerque to Chicago, Departure Time: 16:00, Arrival Time: 19:48"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-16 to 2022-03-18, for 3 people, traveling from Chicago to Albuquerque with a budget of $4500. Accommodation must allow children. The room should be a(n) entire room.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Chicago to Albuquerque"",
+            ""transportation"": ""Flight Number: F3603273, from Chicago to Albuquerque, Departure Time: 17:28, Arrival Time: 19:35"",
+            ""attraction"": ""New Mexico Museum of Natural History and Science, Albuquerque; Albuquerque Museum, Albuquerque."",
+            ""accommodation"": ""Charming Fort Greene Apartment, Albuquerque""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Albuquerque"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Explora Science Center and Children's Museum of Albuquerque, Albuquerque; Turquoise Museum, Albuquerque."",
+            ""accommodation"": ""Charming Fort Greene Apartment, Albuquerque""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Albuquerque to Chicago"",
+            ""transportation"": ""Flight Number: F3603308, from Albuquerque to Chicago, Departure Time: 05:41, Arrival Time: 09:35"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-16 to 2022-03-18, for 1 person, traveling from Chicago to Albuquerque with a budget of $1200.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Chicago to Albuquerque"",
+            ""transportation"": ""Flight Number: F3603273, from Chicago to Albuquerque, Departure Time: 17:28, Arrival Time: 19:35"",
+            ""attraction"": ""New Mexico Museum of Natural History and Science, Albuquerque; Albuquerque Museum, Albuquerque."",
+            ""accommodation"": ""Charming Fort Greene Apartment, Albuquerque""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Albuquerque"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Explora Science Center and Children's Museum of Albuquerque, Albuquerque; Turquoise Museum, Albuquerque."",
+            ""accommodation"": ""Charming Fort Greene Apartment, Albuquerque""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Albuquerque to Chicago"",
+            ""transportation"": ""Flight Number: F3603308, from Albuquerque to Chicago, Departure Time: 05:41, Arrival Time: 09:35"",
+            ""attraction"": ""Sandia Peak Tramway, Albuquerque."",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-24 to 2022-03-26, for 2 people, traveling from Atlanta to Chicago with a budget of $1900. The room should be a(n) entire room.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Atlanta to Chicago"",
+            ""transportation"": ""Flight Number: F3518034, from Atlanta to Chicago, Departure Time: 10:14, Arrival Time: 11:07"",
+            ""attraction"": ""Navy Pier, Chicago; Skydeck Chicago, Chicago."",
+            ""accommodation"": ""Newly Renovated Greenpoint Abode, Chicago""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Chicago"",
+            ""transportation"": ""-"",
+            ""attraction"": ""360 CHICAGO, Chicago; Willis Tower, Chicago; Millennium Park, Chicago."",
+            ""accommodation"": ""Newly Renovated Greenpoint Abode, Chicago""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Chicago to Atlanta"",
+            ""transportation"": ""Flight Number: F3606586, from Chicago to Atlanta, Departure Time: 14:59, Arrival Time: 15:43"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-18 to 2022-03-20, for 2 people, traveling from Ithaca to Newark with a budget of $1200. Accommodation must allow visitors. The room should be a(n) entire room.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Ithaca to Newark"",
+            ""transportation"": ""Flight Number: F3924332, from Ithaca to Newark, Departure Time: 05:59, Arrival Time: 07:41"",
+            ""attraction"": ""The Newark Museum of Art, Newark; Military Park, Newark."",
+            ""accommodation"": ""Gramercy One Bedroom w Two Beds, Newark""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Newark"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Branch Brook Park, Newark; Weequahic Park, Newark."",
+            ""accommodation"": ""Gramercy One Bedroom w Two Beds, Newark""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Newark to Ithaca"",
+            ""transportation"": ""Flight Number: F3923347, from Newark to Ithaca, Departure Time: 22:14, Arrival Time: 23:10"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-18 to 2022-03-20, for 2 people, traveling from Ithaca to Newark with a budget of $1300. Accommodation must allow smoking.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Ithaca to Newark"",
+            ""transportation"": ""Flight Number: F3924332, from Ithaca to Newark, Departure Time: 05:59, Arrival Time: 07:41"",
+            ""attraction"": ""The Newark Museum of Art, Newark; Military Park, Newark."",
+            ""accommodation"": ""Rustic Modern Brooklyn Apartment, Newark""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Newark"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Branch Brook Park, Newark; Weequahic Park, Newark."",
+            ""accommodation"": ""Rustic Modern Brooklyn Apartment, Newark""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Newark to Ithaca"",
+            ""transportation"": ""Flight Number: F3923347, from Newark to Ithaca, Departure Time: 22:14, Arrival Time: 23:10"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-18 to 2022-03-20, for 1 person, traveling from Ithaca to Newark with a budget of $700.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Ithaca to Newark"",
+            ""transportation"": ""Flight Number: F3924332, from Ithaca to Newark, Departure Time: 05:59, Arrival Time: 07:41"",
+            ""attraction"": ""The Newark Museum of Art, Newark; Military Park, Newark"",
+            ""accommodation"": ""Sonder | Stock Exchange | Ideal 1BR + Kitchen, Newark""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Newark"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Branch Brook Park, Newark; Weequahic Park, Newark"",
+            ""accommodation"": ""Sonder | Stock Exchange | Ideal 1BR + Kitchen, Newark""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Newark to Ithaca"",
+            ""transportation"": ""Flight Number: F3923347, from Newark to Ithaca, Departure Time: 22:14, Arrival Time: 23:10"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-15 to 2022-03-17, for 2 people, traveling from Detroit to Nashville with a budget of $3300. Accommodation must allow smoking. The room should be a(n) private room.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Detroit to Nashville"",
+            ""transportation"": ""Flight Number: F3557303, from Detroit to Nashville, Departure Time: 21:16, Arrival Time: 21:47"",
+            ""attraction"": ""Country Music Hall of Fame and Museum, Nashville"",
+            ""accommodation"": ""Charming 1BR with sun-nook in Brooklyn, Nashville""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Nashville"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Centennial Park, Nashville; Grand Ole Opry, Nashville"",
+            ""accommodation"": ""Charming 1BR with sun-nook in Brooklyn, Nashville""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Nashville to Detroit"",
+            ""transportation"": ""Flight Number: F3499116, from Nashville to Detroit, Departure Time: 06:03, Arrival Time: 08:47"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-15 to 2022-03-17, for 2 people, traveling from Detroit to Nashville with a budget of $800. The room should be a(n) private room.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Detroit to Nashville"",
+            ""transportation"": ""Flight Number: F3525025, from Detroit to Nashville, Departure Time: 09:38, Arrival Time: 10:08"",
+            ""attraction"": ""Country Music Hall of Fame and Museum, Nashville"",
+            ""accommodation"": ""Clean and large bedroom in a private house, Nashville""
+        },
+        {
+            ""day"": 2
+            ""current_city"": ""Nashville"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Nashville Zoo at Grassmere, Nashville; Belle Meade Historic Site & Winery, Nashville"",
+            ""accommodation"": ""Clean and large bedroom in a private house, Nashville""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Nashville to Detroit"",
+            ""transportation"": ""Flight Number: F3499116, from Nashville to Detroit, Departure Time: 06:03, Arrival Time: 08:47"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-15 to 2022-03-17, for 1 person, traveling from Detroit to Nashville with a budget of $500.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Detroit to Nashville"",
+            ""transportation"": ""Flight Number: F3557303, from Detroit to Nashville, Departure Time: 21:16, Arrival Time: 21:47"",
+            ""attraction"": ""Country Music Hall of Fame and Museum, Nashville; Nashville Zoo at Grassmere, Nashville."",
+            ""accommodation"": ""Huge 2 Bedroom, Great Location, Express Metro, Nashville""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Nashville"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Belle Meade Historic Site & Winery, Nashville; Johnny Cash Museum, Nashville."",
+            ""accommodation"": ""Huge 2 Bedroom, Great Location, Express Metro, Nashville""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Nashville to Detroit"",
+            ""transportation"": ""Flight Number: F3499116, from Nashville to Detroit, Departure Time: 06:03, Arrival Time: 08:47"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-29 to 2022-03-31, for 2 people, traveling from Atlanta to Knoxville with a budget of $1000. Accommodation must allow children. The room should be a(n) private room.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Atlanta to Knoxville"",
+            ""transportation"": ""Flight Number: F3528856, from Atlanta to Knoxville, Departure Time: 13:55, Arrival Time: 14:46"",
+            ""attraction"": ""World's Fair Park, Knoxville"",
+            ""accommodation"": ""Private Room, Knoxville""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Knoxville"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Knoxville Museum of Art, Knoxville; Sunsphere, Knoxville"",
+            ""accommodation"": ""Private Room, Knoxville""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Knoxville to Atlanta"",
+            ""transportation"": ""Flight Number: F3518895, from Knoxville to Atlanta, Departure Time: 18:47, Arrival Time: 19:44"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-29 to 2022-03-31, for 2 people, traveling from Atlanta to Knoxville with a budget of $1000. The room should be a(n) entire room.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Atlanta to Knoxville"",
+            ""transportation"": ""Flight Number: F3645549, from Atlanta to Knoxville, Departure Time: 08:13, Arrival Time: 09:00"",
+            ""attraction"": ""Sunsphere, Knoxville; Ijams Nature Center, Knoxville."",
+            ""accommodation"": ""Cozy Private Room in Chinatown/ Lower East Side, Knoxville""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Knoxville"",
+            ""transportation"": ""-"",
+            ""attraction"": ""World's Fair Park, Knoxville; Knoxville Museum of Art, Knoxville."",
+            ""accommodation"": ""Cozy Private Room in Chinatown/ Lower East Side, Knoxville""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Knoxville to Atlanta"",
+            ""transportation"": ""Flight Number: F3637909, from Knoxville to Atlanta, Departure Time: 06:38, Arrival Time: 07:34"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-29 to 2022-03-31, for 1 person, traveling from Atlanta to Knoxville with a budget of $500.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Atlanta to Knoxville"",
+            ""transportation"": ""Flight Number: F3645549, from Atlanta to Knoxville, Departure Time: 08:13, Arrival Time: 09:00"",
+            ""attraction"": ""World's Fair Park, Knoxville; Knoxville Museum of Art, Knoxville."",
+            ""accommodation"": ""Cozy Private Room in Chinatown/ Lower East Side, Knoxville""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Knoxville"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Sunsphere, Knoxville; Ijams Nature Center, Knoxville."",
+            ""accommodation"": ""Cozy Private Room in Chinatown/ Lower East Side, Knoxville""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Knoxville to Atlanta"",
+            ""transportation"": ""Flight Number: F3517130, from Knoxville to Atlanta, Departure Time: 05:32, Arrival Time: 06:28"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-22 to 2022-03-24, for 2 people, traveling from Chicago to Albany with a budget of $2300. Accommodation must allow smoking. The room should be a(n) entire room.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Chicago to Albany"",
+            ""transportation"": ""Flight Number: F3983351, from Chicago to Albany, Departure Time: 20:20, Arrival Time: 23:04"",
+            ""attraction"": ""Albany Institute of History & Art, Albany; New York State Museum, Albany."",
+            ""accommodation"": ""Sunny, 1 Bedroom in Bedstuy, Brooklyn, Albany""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Albany"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Schuyler Mansion State Historic Site, Albany; Albany Pine Bush Preserve, Albany."",
+            ""accommodation"": ""Sunny, 1 Bedroom in Bedstuy, Brooklyn, Albany""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Albany to Chicago"",
+            ""transportation"": ""Flight Number: F4008387, from Albany to Chicago, Departure Time: 05:05, Arrival Time: 06:11"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-22 to 2022-03-24, for 2 people, traveling from Chicago to Albany with a budget of $2300. Accommodation must allow smoking.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Chicago to Albany"",
+            ""transportation"": ""Flight Number: F3983350, from Chicago to Albany, Departure Time: 20:20, Arrival Time: 23:04"",
+            ""attraction"": ""Albany Institute of History & Art, Albany; New York State Museum, Albany."",
+            ""accommodation"": ""Spacious room with huge bay window & natural l..., Albany""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Albany"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Schuyler Mansion State Historic Site, Albany; Albany Pine Bush Preserve, Albany."",
+            ""accommodation"": ""Spacious room with huge bay window & natural l..., Albany""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Albany to Chicago"",
+            ""transportation"": ""Flight Number: F4008388, from Albany to Chicago, Departure Time: 20:12, Arrival Time: 21:18"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-22 to 2022-03-24, for 1 person, traveling from Chicago to Albany with a budget of $800.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Chicago to Albany"",
+            ""transportation"": ""Flight Number: F3983350, from Chicago to Albany, Departure Time: 20:20, Arrival Time: 23:04, Flight Date: 2022-03-22"",
+            ""attraction"": ""Albany Institute of History & Art, Albany"",
+            ""accommodation"": ""Spacious room with huge bay window & natural l..., Albany""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Albany"",
+            ""transportation"": ""-"",
+            ""attraction"": "" New York State Museum, Albany; Schuyler Mansion State Historic Site, Albany"",
+            ""accommodation"": ""Spacious room with huge bay window & natural l..., Albany""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Albany to Chicago"",
+            ""transportation"": ""Flight Number: F4008387, from Albany to Chicago, Departure Time: 05:05, Arrival Time: 06:11, Flight Date: 2022-03-24"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-06 to 2022-03-08, for 2 people, traveling from Houston to Pensacola with a budget of $1400. Accommodation must allow visitors.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Houston to Pensacola"",
+            ""transportation"": ""Flight Number: F3931162, from Houston to Pensacola, Departure Time: 09:33, Arrival Time: 10:59, Flight Date: 2022-03-06"",
+            ""attraction"": ""Historic Pensacola Village, Pensacola; Pensacola Museum of Art, Pensacola."",
+            ""accommodation"": ""Comfy Room, Pensacola""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Pensacola"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Palafox Street Downtown Pensacola, Pensacola; Plaza De Luna Memorial Monument, Pensacola."",
+            ""accommodation"": ""Comfy Room, Pensacola""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Pensacola to Houston"",
+            ""transportation"": ""Flight Number: F3890675, from Pensacola to Houston, Departure Time: 06:59, Arrival Time: 08:33, Flight Date: 2022-03-08"",
+            ""attraction"": ""The Graffiti Bridge, Pensacola; Pensacola Children's Museum, Pensacola."",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-06 to 2022-03-08, for 2 people, traveling from Houston to Pensacola with a budget of $1400. Accommodation must allow visitors. The room should be a(n) entire room.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Houston to Pensacola"",
+            ""transportation"": ""Flight Number: F3855861, from Houston to Pensacola, Departure Time: 11:54, Arrival Time: 13:21"",
+            ""attraction"": ""Historic Pensacola Village, Pensacola; Pensacola Museum of Art, Pensacola."",
+            ""accommodation"": ""Cozy 1-Bedroom Apartment 2 Blocks from the Subway, Pensacola""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Pensacola"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Palafox Street Downtown Pensacola, Pensacola; Plaza De Luna Memorial Monument, Pensacola."",
+            ""accommodation"": ""Cozy 1-Bedroom Apartment 2 Blocks from the Subway, Pensacola""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Pensacola to Houston"",
+            ""transportation"": ""Flight Number: F3890675, from Pensacola to Houston, Departure Time: 06:59, Arrival Time: 08:33"",
+            ""attraction"": ""The Graffiti Bridge, Pensacola."",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-06 to 2022-03-08, for 1 person, traveling from Houston to Pensacola with a budget of $800.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Houston to Pensacola"",
+            ""transportation"": ""Flight Number: F3855861, from Houston to Pensacola, Departure Time: 11:54, Arrival Time: 13:21"",
+            ""attraction"": ""Historic Pensacola Village, Pensacola"",
+            ""accommodation"": ""Comfy Room, Pensacola""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Pensacola"",
+            ""transportation"": ""-"",
+            ""attraction"": "" Palafox Street Downtown Pensacola, Pensacola; Plaza De Luna Memorial Monument, Pensacola; The Graffiti Bridge, Pensacola"",
+            ""accommodation"": ""Comfy Room, Pensacola""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Pensacola to Houston"",
+            ""transportation"": ""Flight Number: F3890675, from Pensacola to Houston, Departure Time: 06:59, Arrival Time: 08:33"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-06 to 2022-03-08, for 2 people, traveling from South Bend to Atlanta with a budget of $1500. Accommodation must allow parties.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from South Bend to Atlanta"",
+            ""transportation"": ""Flight Number: F3648988, from South Bend to Atlanta, Departure Time: 12:30, Arrival Time: 14:21"",
+            ""attraction"": ""Georgia Aquarium, Atlanta"",
+            ""accommodation"": ""Bright, Modern, Clean, Spacious, Brooklyn Home, Atlanta""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Atlanta"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Centennial Olympic Park, Atlanta World of Coca-Cola, Atlanta"",
+            ""accommodation"": ""Bright, Modern, Clean, Spacious, Brooklyn Home, Atlanta""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Atlanta to South Bend"",
+            ""transportation"": ""Flight Number: F3637050, from Atlanta to South Bend, Departure Time: 10:26, Arrival Time: 12:06"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-06 to 2022-03-08, for 2 people, traveling from South Bend to Atlanta with a budget of $1500. Accommodation must allow parties. The room should be a(n) private room.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from South Bend to Atlanta"",
+            ""transportation"": ""Flight Number: F3636293, from South Bend to Atlanta, Departure Time: 18:02, Arrival Time: 19:56"",
+            ""attraction"": ""Atlanta Botanical Garden, Atlanta; World of Coca-Cola, Atlanta"",
+            ""accommodation"": ""Spacious private room close St. Barnabas Hospital, Atlanta""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Atlanta"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Georgia Aquarium, Atlanta; Martin Luther King, Jr. National Historical Park, Atlanta."",
+            ""accommodation"": ""Spacious private room close St. Barnabas Hospital, Atlanta""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Atlanta to South Bend"",
+            ""transportation"": ""Flight Number: F3655481, from Atlanta to South Bend, Departure Time: 21:10, Arrival Time: 23:05"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-06 to 2022-03-08, for 1 person, traveling from South Bend to Atlanta with a budget of $1200.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from South Bend to Atlanta"",
+            ""transportation"": ""Flight Number: F3636293, from South Bend to Atlanta, Departure Time: 18:02, Arrival Time: 19:56"",
+            ""attraction"": ""Atlanta Botanical Garden, Atlanta"",
+            ""accommodation"": ""Fantastic Room in Bushwick, Atlanta""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Atlanta"",
+            ""transportation"": ""-"",
+            ""attraction"": ""World of Coca-Cola, Atlanta; Georgia Aquarium, Atlanta"",
+            ""accommodation"": ""Fantastic Room in Bushwick, Atlanta""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Atlanta to South Bend"",
+            ""transportation"": ""Flight Number: F3655481, from Atlanta to South Bend, Departure Time: 21:10, Arrival Time: 23:05"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-18 to 2022-03-20, for 2 people, traveling from Los Angeles to Detroit with a budget of $2000. Accommodation must allow visitors.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Los Angeles to Detroit"",
+            ""transportation"": ""Flight Number: F3548634, from Los Angeles to Detroit, Departure Time: 07:08, Arrival Time: 14:11"",
+            ""attraction"": "" Detroit Institute of Arts, Detroit Detroit Historical Museum, Detroit"",
+            ""accommodation"": ""Comfy King Bed Feet from Subway, Detroit""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Detroit"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Campus Martius Park, Detroit; Motown Museum, Detroit"",
+            ""accommodation"": ""Comfy King Bed Feet from Subway, Detroit""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Detroit to Los Angeles"",
+            ""transportation"": ""Flight Number: F3545846, from Detroit to Los Angeles, Departure Time: 13:31, Arrival Time: 15:14""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-25 to 2022-03-27, for 2 people, traveling from Columbus to Newark with a budget of $1200. Accommodation must allow visitors. The room should be a(n) entire room.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Columbus to Newark"",
+            ""transportation"": ""Flight Number: F4076373, from Columbus to Newark, Departure Time: 06:21, Arrival Time: 08:03, Flight Date: 2022-03-25"",
+            ""attraction"": ""The Newark Museum of Art, Newark"",
+            ""accommodation"": ""Sonder | Stock Exchange | Ideal 1BR + Kitchen, Newark""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Newark"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Military Park, Newark; Branch Brook Park, Newark"",
+            ""accommodation"": ""Sonder | Stock Exchange | Ideal 1BR + Kitchen, Newark""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Newark to Columbus"",
+            ""transportation"": ""Flight Number: F3919557, from Newark to Columbus, Departure Time: 20:02, Arrival Time: 21:50, Flight Date: 2022-03-27"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-25 to 2022-03-27, for 2 people, traveling from Columbus to Newark with a budget of $1200. The room should be a(n) entire room.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Columbus to Newark"",
+            ""transportation"": ""Flight Number: F4076294, from Columbus to Newark, Departure Time: 19:17, Arrival Time: 21:25"",
+            ""attraction"": ""The Newark Museum of Art, Newark; Military Park, Newark."",
+            ""accommodation"": ""Sonder | Stock Exchange | Ideal 1BR + Kitchen, Newark""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Newark"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Branch Brook Park, Newark; Weequahic Park, Newark"",
+            ""accommodation"": ""Sonder | Stock Exchange | Ideal 1BR + Kitchen, Newark""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Newark to Columbus"",
+            ""transportation"": ""Flight Number: F3919557, from Newark to Columbus, Departure Time: 20:02, Arrival Time: 21:50"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-25 to 2022-03-27, for 1 person, traveling from Columbus to Newark with a budget of $1000.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Columbus to Newark"",
+            ""transportation"": ""Flight Number: F4076294, from Columbus to Newark, Departure Time: 19:17, Arrival Time: 21:25"",
+            ""attraction"": ""The Newark Museum of Art, Newark; Military Park, Newark."",
+            ""accommodation"": ""Gramercy One Bedroom w Two Beds, Newark""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Newark"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Branch Brook Park, Newark; Weequahic Park, Newark."",
+            ""accommodation"": ""Gramercy One Bedroom w Two Beds, Newark""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Newark to Columbus"",
+            ""transportation"": ""Flight Number: F3919557, from Newark to Columbus, Departure Time: 20:02, Arrival Time: 21:50"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-21 to 2022-03-23, for 2 people, traveling from Santa Ana to Houston with a budget of $3000. Accommodation must allow smoking.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Santa Ana to Houston"",
+            ""transportation"": ""Flight Number: F3897390, from Santa Ana to Houston, Departure Time: 07:57, Arrival Time: 13:05, Flight Date: 2022-03-21"",
+            ""attraction"": ""Downtown Aquarium, Houston; Space Center Houston, Houston."",
+            ""accommodation"": ""Cozy Room near Casino and Metro, Houston""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Houston"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Houston Museum of Natural Science, Houston; Houston Zoo, Houston."",
+            ""accommodation"": ""Cozy Room near Casino and Metro, Houston""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Houston to Santa Ana"",
+            ""transportation"": ""Flight Number: F3886147, from Houston to Santa Ana, Departure Time: 20:18, Arrival Time: 21:56, Flight Date: 2022-03-23"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-21 to 2022-03-23, for 2 people, traveling from Santa Ana to Houston with a budget of $3000. The room should be a(n) private room.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Santa Ana to Houston"",
+            ""transportation"": ""Flight Number: F3897390, from Santa Ana to Houston, Departure Time: 07:57, Arrival Time: 13:05"",
+            ""attraction"": ""Downtown Aquarium, Houston; Space Center Houston, Houston."",
+            ""accommodation"": ""Bright room in 2BR apt in Nolita!, Houston""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Houston"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Houston Museum of Natural Science, Houston; The Museum of Fine Arts, Houston."",
+            ""accommodation"": ""Bright room in 2BR apt in Nolita!, Houston""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Houston to Santa Ana"",
+            ""transportation"": ""Flight Number: F3886147, from Houston to Santa Ana, Departure Time: 20:18, Arrival Time: 21:56"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-21 to 2022-03-23, for 2 people, traveling from Santa Ana to Houston with a budget of $3500. Accommodation must allow children. The room should be a(n) entire room.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Santa Ana to Houston"",
+            ""transportation"": ""Flight Number: F3897390, from Santa Ana to Houston, Departure Time: 07:57, Arrival Time: 13:05, Flight Date: 2022-03-21"",
+            ""attraction"": ""Houston Museum of Natural Science, Houston; Space Center Houston, Houston."",
+            ""accommodation"": ""Sunny and Airy near Manhattan, Houston""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Houston"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Discovery Green, Houston; Market Square Park, Houston."",
+            ""accommodation"": ""Sunny and Airy near Manhattan, Houston""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Houston to Santa Ana"",
+            ""transportation"": ""Flight Number: F3986111, from Houston to Santa Ana, Departure Time: 15:52, Arrival Time: 17:14, Flight Date: 2022-03-23"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-21 to 2022-03-23, for 2 people, traveling from Santa Ana to Houston with a budget of $3500. Accommodation must allow children. The room should be a(n) private room.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Santa Ana to Houston"",
+            ""transportation"": ""Flight Number: F3897390, from Santa Ana to Houston, Departure Time: 07:57, Arrival Time: 13:05"",
+            ""attraction"": ""Downtown Aquarium, Houston; Space Center Houston, Houston."",
+            ""accommodation"": ""Bright room in 2BR apt in Nolita!, Houston""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Houston"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Houston Museum of Natural Science, Houston; Houston Zoo, Houston."",
+            ""accommodation"": ""Bright room in 2BR apt in Nolita!, Houston""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Houston to Santa Ana"",
+            ""transportation"": ""Flight Number: F3886573, from Houston to Santa Ana, Departure Time: 10:14, Arrival Time: 11:50"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-21 to 2022-03-23, for 2 people, traveling from Santa Ana to Houston with a budget of $3500. Accommodation must allow parties. The room should be a(n) private room.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Santa Ana to Houston"",
+            ""transportation"": ""Flight Number: F3897390, from Santa Ana to Houston, Departure Time: 07:57, Arrival Time: 13:05"",
+            ""attraction"": ""Space Center Houston, Houston; Houston Museum of Natural Science, Houston"",
+            ""accommodation"": ""Cozy Room near Casino and Metro, Houston""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Houston"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Houston Zoo, Houston; The Museum of Fine Arts, Houston"",
+            ""accommodation"": ""Cozy Room near Casino and Metro, Houston""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Houston to Santa Ana"",
+            ""transportation"": ""Flight Number: F3986111, from Houston to Santa Ana, Departure Time: 15:52, Arrival Time: 17:14"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-21 to 2022-03-23, for 1 person, traveling from Santa Ana to Houston with a budget of $2000.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Santa Ana to Houston"",
+            ""transportation"": ""Flight Number: F3897390, from Santa Ana to Houston, Departure Time: 07:57, Arrival Time: 13:05, Flight Date: 2022-03-21"",
+            ""attraction"": ""Downtown Aquarium, Houston; Space Center Houston, Houston."",
+            ""accommodation"": ""Sunny and Airy near Manhattan, Houston""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Houston"",
+            ""transportation"": ""-"",
+            ""attraction"": ""The Museum of Fine Arts, Houston, Houston; Hermann Park, Houston"",
+            ""accommodation"": ""Sunny and Airy near Manhattan, Houston""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Houston to Santa Ana"",
+            ""transportation"": ""Flight Number: F3886147, from Houston to Santa Ana, Departure Time: 20:18, Arrival Time: 21:56, Flight Date: 2022-03-23"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-21 to 2022-03-23, for 1 person, traveling from West Palm Beach to White Plains with a budget of $2600.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from West Palm Beach to White Plains"",
+            ""transportation"": ""Flight Number: F3772636, from West Palm Beach to White Plains, Departure Time: 18:36, Arrival Time: 21:23"",
+            ""attraction"": ""J Harvey Turnure Memorial Park, White Plains"",
+            ""accommodation"": ""Private room in Historic Queens NY, White Plains""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""White Plains"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Saxon Woods Park, White Plains; Battle of White Plains Park, White Plains"",
+            ""accommodation"": ""Private room in Historic Queens NY, White Plains""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from White Plains to West Palm Beach"",
+            ""transportation"": ""Flight Number: F3772333, from White Plains to West Palm Beach, Departure Time: 11:15, Arrival Time: 14:01"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-21 to 2022-03-23, for 2 people, traveling from West Palm Beach to White Plains with a budget of $3000. The room should be a(n) entire room.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from West Palm Beach to White Plains"",
+            ""transportation"": ""Flight Number: F3760749, from West Palm Beach to White Plains, Departure Time: 19:50, Arrival Time: 22:42"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""Loft in the heart of Bushwick (jefferson L), White Plains""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""White Plains"",
+            ""transportation"": ""-"",
+            ""attraction"": ""J Harvey Turnure Memorial Park, White Plains; Saxon Woods Park, White Plains"",
+            ""accommodation"": ""Loft in the heart of Bushwick (jefferson L), White Plains""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from White Plains to West Palm Beach"",
+            ""transportation"": ""Flight Number: F3761340, from White Plains to West Palm Beach, Departure Time: 22:23, Arrival Time: 01:12"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-21 to 2022-03-23, for 2 people, traveling from West Palm Beach to White Plains with a budget of $3000. Accommodation must allow smoking. The room should be a(n) entire room.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from West Palm Beach to White Plains"",
+            ""transportation"": ""Flight Number: F3762250, from West Palm Beach to White Plains, Departure Time: 06:37, Arrival Time: 09:36"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""Loft in the heart of Bushwick (jefferson L), White Plains, Price: $1197, Minimum Nights: 2""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""White Plains"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Battle of White Plains Park, White Plains; LEGOLAND Discovery Center Westchester, White Plains."",
+            ""accommodation"": ""Loft in the heart of Bushwick (jefferson L), White Plains""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from White Plains to West Palm Beach"",
+            ""transportation"": ""Flight Number: F3761340, from White Plains to West Palm Beach, Departure Time: 22:23, Arrival Time: 01:12"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-21 to 2022-03-23, for 2 people, traveling from West Palm Beach to White Plains with a budget of $3000. Accommodation must allow smoking. The room should be a(n) private room.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from West Palm Beach to White Plains"",
+            ""transportation"": ""Flight Number: F3762250, from West Palm Beach to White Plains, Departure Time: 06:37, Arrival Time: 09:36"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""Private room in Historic Queens NY, White Plains""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""White Plains"",
+            ""transportation"": ""-"",
+            ""attraction"": ""J Harvey Turnure Memorial Park, White Plains; Saxon Woods Park, White Plains; Battle of White Plains Park, White Plains"",
+            ""accommodation"": ""Private room in Historic Queens NY, White Plains""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from White Plains to West Palm Beach"",
+            ""transportation"": ""Flight Number: F3761340, from White Plains to West Palm Beach, Departure Time: 22:23, Arrival Time: 01:12"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-05 to 2022-03-07, for 2 people, traveling from West Palm Beach to White Plains with a budget of $2600. The room should be a(n) entire room.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from West Palm Beach to White Plains"",
+            ""transportation"": ""Flight Number: F3756085, from West Palm Beach to White Plains, Departure Time: 05:58, Arrival Time: 08:48"",
+            ""attraction"": ""J Harvey Turnure Memorial Park, White Plains; Saxon Woods Park, White Plains."",
+            ""accommodation"": ""Entire room in Large Opulent Studio Apartment Near Prospect Park, White Plains""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""White Plains"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Battle of White Plains Park, White Plains; Percy Grainger House, White Plains."",
+            ""accommodation"": ""Entire room in Large Opulent Studio Apartment Near Prospect Park, White Plains""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from White Plains to West Palm Beach"",
+            ""transportation"": ""Flight Number: F3765096, from White Plains to West Palm Beach, Departure Time: 11:23, Arrival Time: 14:08"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-07 to 2022-03-09, for 2 people, traveling from Cincinnati to Philadelphia with a budget of $2000. Accommodation must allow children. The room should be a(n) private room.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Cincinnati to Philadelphia"",
+            ""transportation"": ""Flight Number: F3787889, from Cincinnati to Philadelphia, Departure Time: 09:17, Arrival Time: 10:41"",
+            ""attraction"": ""The Franklin Institute, Philadelphia; Independence National Historical Park, Philadelphia."",
+            ""accommodation"": ""Private Room in Hip Neighborhood - Close to Trains, Philadelphia""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Philadelphia"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Philadelphia's Magic Gardens, Philadelphia; Philadelphia Museum of Art, Philadelphia."",
+            ""accommodation"": ""Private Room in Hip Neighborhood - Close to Trains, Philadelphia""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Philadelphia to Cincinnati"",
+            ""transportation"": ""Flight Number: F3793489, from Philadelphia to Cincinnati, Departure Time: 10:37, Arrival Time: 12:28"",
+            ""attraction"": ""Liberty Bell, Philadelphia; Eastern State Penitentiary, Philadelphia."",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-07 to 2022-03-09, for 2 people, traveling from Cincinnati to Philadelphia with a budget of $2000. Accommodation must allow parties. The room should be a(n) entire room.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Cincinnati to Philadelphia"",
+            ""transportation"": ""Flight Number: F3787889, from Cincinnati to Philadelphia, Departure Time: 09:17, Arrival Time: 10:41"",
+            ""attraction"": ""The Franklin Institute, Philadelphia; Independence National Historical Park, Philadelphia."",
+            ""accommodation"": ""Entire Room in Brooklyn Room in Hip Neighborhood - Close to T..., Philadelphia""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Philadelphia"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Philadelphia's Magic Gardens, Philadelphia; Philadelphia Museum of Art, Philadelphia."",
+            ""accommodation"": ""Entire Room in Brooklyn Room in Hip Neighborhood - Close to T..., Philadelphia""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Philadelphia to Cincinnati"",
+            ""transportation"": ""Flight Number: F3793489, from Philadelphia to Cincinnati, Departure Time: 10:37, Arrival Time: 12:28"",
+            ""attraction"": ""Liberty Bell, Philadelphia."",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-07 to 2022-03-09, for 1 person, traveling from Cincinnati to Philadelphia with a budget of $900.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Cincinnati to Philadelphia"",
+            ""transportation"": ""Flight Number: F3787889, from Cincinnati to Philadelphia, Departure Time: 09:17, Arrival Time: 10:41"",
+            ""attraction"": ""The Franklin Institute, Philadelphia; Independence National Historical Park, Philadelphia."",
+            ""accommodation"": ""Brooklyn Room in Hip Neighborhood - Close to Temple University, Philadelphia""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Philadelphia"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Philadelphia's Magic Gardens, Philadelphia; Philadelphia Museum of Art, Philadelphia."",
+            ""accommodation"": ""Brooklyn Room in Hip Neighborhood - Close to Temple University, Philadelphia""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Philadelphia to Cincinnati"",
+            ""transportation"": ""Flight Number: F3793489, from Philadelphia to Cincinnati, Departure Time: 10:37, Arrival Time: 12:28"",
+            ""attraction"": ""Liberty Bell, Philadelphia."",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-07 to 2022-03-09, for 1 person, traveling from Cincinnati to Philadelphia with a budget of $1900. The room should be a(n) entire room.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Cincinnati to Philadelphia"",
+            ""transportation"": ""Flight Number: F3787889, from Cincinnati to Philadelphia, Departure Time: 09:17, Arrival Time: 10:41"",
+            ""attraction"": ""The Franklin Institute, Philadelphia; Independence National Historical Park, Philadelphia."",
+            ""accommodation"": ""Brooklyn Room in Hip Neighborhood - Close to T..., Philadelphia""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Philadelphia"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Philadelphia's Magic Gardens, Philadelphia; Philadelphia Museum of Art, Philadelphia."",
+            ""accommodation"": ""Brooklyn Room in Hip Neighborhood - Close to T..., Philadelphia""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Philadelphia to Cincinnati"",
+            ""transportation"": ""Flight Number: F3793489, from Philadelphia to Cincinnati, Departure Time: 10:37, Arrival Time: 12:28"",
+            ""attraction"": ""Liberty Bell, Philadelphia."",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-25 to 2022-03-27, for 2 people, traveling from Elmira to Detroit with a budget of $2200. Accommodation must allow pets. The room should be a(n) entire room.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Elmira to Detroit"",
+            ""transportation"": ""Flight Number: F3808914, from Elmira to Detroit, Departure Time: 15:48, Arrival Time: 17:00"",
+            ""attraction"": ""Detroit Institute of Arts, Detroit; Detroit Historical Museum, Detroit."",
+            ""accommodation"": ""Cozy 1 bedroom in the heart of Fort Greene, Detroit""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Detroit"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Campus Martius Park, Detroit; Motown Museum, Detroit."",
+            ""accommodation"": ""Cozy 1 bedroom in the heart of Fort Greene, Detroit""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Detroit to Elmira"",
+            ""transportation"": ""Flight Number: F3807494, from Detroit to Elmira, Departure Time: 13:46, Arrival Time: 15:10"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-25 to 2022-03-27, for 2 people, traveling from Elmira to Detroit with a budget of $1000. The room should be a(n) private room.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Elmira to Detroit"",
+            ""transportation"": ""Flight Number: F3808914, from Elmira to Detroit, Departure Time: 15:48, Arrival Time: 17:00"",
+            ""attraction"": ""Detroit Institute of Arts, Detroit; Detroit Historical Museum, Detroit."",
+            ""accommodation"": ""Comfy King Bed Feet from Subway, Detroit""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Detroit"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Campus Martius Park, Detroit; Motown Museum, Detroit; Detroit Zoo, Detroit."",
+            ""accommodation"": ""Comfy King Bed Feet from Subway, Detroit""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Detroit to Elmira"",
+            ""transportation"": ""Flight Number: F3807494, from Detroit to Elmira, Departure Time: 13:46, Arrival Time: 15:10"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-25 to 2022-03-27, for 2 people, traveling from Elmira to Detroit with a budget of $1000. Accommodation must allow parties. The room should be a(n) private room.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Elmira to Detroit"",
+            ""transportation"": ""Flight Number: F3808914, from Elmira to Detroit, Departure Time: 15:48, Arrival Time: 17:00"",
+            ""attraction"": ""Detroit Institute of Arts, Detroit; Detroit Historical Museum, Detroit."",
+            ""accommodation"": ""Comfy King Bed Feet from Subway, Detroit""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Detroit"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Campus Martius Park, Detroit; Motown Museum, Detroit."",
+            ""accommodation"": ""Comfy King Bed Feet from Subway, Detroit""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Detroit to Elmira"",
+            ""transportation"": ""Flight Number: F3807494, from Detroit to Elmira, Departure Time: 13:46, Arrival Time: 15:10"",
+            ""attraction"": ""Ford Piquette Avenue Plant Museum, Detroit."",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-25 to 2022-03-27, for 2 people, traveling from Elmira to Detroit with a budget of $2400. Accommodation must allow parties.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Elmira to Detroit"",
+            ""transportation"": ""Flight Number: F3808914, from Elmira to Detroit, Departure Time: 15:48, Arrival Time: 17:00"",
+            ""attraction"": ""Detroit Institute of Arts, Detroit; Detroit Historical Museum, Detroit."",
+            ""accommodation"": ""Comfy King Bed Feet from Subway, Detroit""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Detroit"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Campus Martius Park, Detroit; Motown Museum, Detroit."",
+            ""accommodation"": ""Comfy King Bed Feet from Subway, Detroit""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Detroit to Elmira"",
+            ""transportation"": ""Flight Number: F3807496, from Detroit to Elmira, Departure Time: 21:03, Arrival Time: 22:09"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-04 to 2022-03-06, for 2 people, traveling from Spokane to Oakland with a budget of $1500. Accommodation must allow smoking. The room should be a(n) entire room.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Spokane to Oakland"",
+            ""transportation"": ""Flight Number: F3968583, from Spokane to Oakland, Departure Time: 05:53, Arrival Time: 08:02"",
+            ""attraction"": ""Oakland Zoo, Oakland; Chabot Space & Science Center, Oakland."",
+            ""accommodation"": ""Home away from home, Oakland""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Oakland"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Knowland Park, Oakland; Reinhardt Redwood Regional Park, Oakland."",
+            ""accommodation"": ""Home away from home, Oakland""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Oakland to Spokane"",
+            ""transportation"": ""Flight Number: F3995715, from Oakland to Spokane, Departure Time: 09:02, Arrival Time: 10:59"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-04 to 2022-03-06, for 2 people, traveling from Spokane to Oakland with a budget of $1500. Accommodation must allow smoking. The room should be a(n) private room.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Spokane to Oakland"",
+            ""transportation"": ""Flight Number: F3968583, from Spokane to Oakland, Departure Time: 05:53, Arrival Time: 08:02"",
+            ""attraction"": ""Oakland Zoo, Oakland; Chabot Space & Science Center, Oakland."",
+            ""accommodation"": ""Home away from home, Oakland""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Oakland"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Knowland Park, Oakland; Reinhardt Redwood Regional Park, Oakland."",
+            ""accommodation"": ""Home away from home, Oakland""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Oakland to Spokane"",
+            ""transportation"": ""Flight Number: F3995715, from Oakland to Spokane, Departure Time: 09:02, Arrival Time: 10:59"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-04 to 2022-03-06, for 2 people, traveling from Spokane to Oakland with a budget of $1400. Accommodation must allow children. The room should be a(n) entire room.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Spokane to Oakland"",
+            ""transportation"": ""Flight Number: F3968583, from Spokane to Oakland, Departure Time: 05:53, Arrival Time: 08:02"",
+            ""attraction"": ""Oakland Zoo, Oakland; Chabot Space & Science Center, Oakland."",
+            ""accommodation"": ""Home away from home, Oakland""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Oakland"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Knowland Park, Oakland; Reinhardt Redwood Regional Park, Oakland."",
+            ""accommodation"": ""Home away from home, Oakland""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Oakland to Spokane"",
+            ""transportation"": ""Flight Number: F3995715, from Oakland to Spokane, Departure Time: 09:02, Arrival Time: 10:59"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-26 to 2022-03-28, for 5 people, traveling from Des Moines to Charlotte with a budget of $7000. Accommodation must allow parties. The room should be a(n) entire room.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Des Moines to Charlotte"",
+            ""transportation"": ""Flight Number: F3602083, from Des Moines to Charlotte, Departure Time: 13:45, Arrival Time: 16:54"",
+            ""attraction"": ""The Charlotte Museum of History, Charlotte"",
+            ""accommodation"": ""Affordable Spacious Refurbished Room in Bushwick!, Charlotte""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Charlotte"",
+            ""transportation"": ""-"",
+            ""attraction"": ""The Mint Museum, Charlotte; Romare Bearden Park, Charlotte"",
+            ""accommodation"": ""Affordable Spacious Refurbished Room in Bushwick!, Charlotte""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Charlotte to Des Moines"",
+            ""transportation"": ""Flight Number: F3797313, from Charlotte to Des Moines, Departure Time: 13:28, Arrival Time: 15:12"",
+            ""attraction"": ""Books Monument, Charlotte"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-26 to 2022-03-28, for 5 people, traveling from Des Moines to Charlotte with a budget of $7000. Accommodation must allow visitors. The room should be a(n) private room.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Des Moines to Charlotte"",
+            ""transportation"": ""Flight Number: F3602083, from Des Moines to Charlotte, Departure Time: 13:45, Arrival Time: 16:54"",
+            ""attraction"": ""The Charlotte Museum of History, Charlotte"",
+            ""accommodation"": ""Affordable Spacious Refurbished Room in Bushwick!, Charlotte""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Charlotte"",
+            ""transportation"": ""-"",
+            ""attraction"": ""The Mint Museum, Charlotte; Romare Bearden Park, Charlotte"",
+            ""accommodation"": ""Affordable Spacious Refurbished Room in Bushwick!, Charlotte""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Charlotte to Des Moines"",
+            ""transportation"": ""Flight Number: F3797313, from Charlotte to Des Moines, Departure Time: 13:28, Arrival Time: 15:12"",
+            ""attraction"": ""Books Monument, Charlotte"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-26 to 2022-03-28, for 5 people, traveling from Des Moines to Charlotte with a budget of $7000. Accommodation must allow smoking. The room should be a(n) entire room.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Des Moines to Charlotte"",
+            ""transportation"": ""Flight Number: F3797342, from Des Moines to Charlotte, Departure Time: 15:45, Arrival Time: 18:51"",
+            ""attraction"": ""Freedom Park, Charlotte; Levine Museum of the New South, Charlotte."",
+            ""accommodation"": ""Affordable Spacious Refurbished Room in Bushwick!, Charlotte""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Charlotte"",
+            ""transportation"": ""-"",
+            ""attraction"": "" Discovery Place Science, Charlotte; NASCAR Hall of Fame, Charlotte"",
+            ""accommodation"": ""Affordable Spacious Refurbished Room in Bushwick!, Charlotte""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Charlotte to Des Moines"",
+            ""transportation"": ""Flight Number: F3797313, from Charlotte to Des Moines, Departure Time: 13:28, Arrival Time: 15:12"",
+            ""attraction"": ""Books Monument, Charlotte."",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-29 to 2022-03-31, for 3 people, traveling from Jacksonville to Boston with a budget of $1700. Accommodation must allow children. The room should be a(n) entire room.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Jacksonville to Boston"",
+            ""transportation"": ""Flight Number: F3760931, from Jacksonville to Boston, Departure Time: 13:13, Arrival Time: 15:46"",
+            ""attraction"": ""Public Garden, Boston; Museum of Science, Boston"",
+            ""accommodation"": ""Luxurious Williamsburg Loft with Private Patio, Boston""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Boston"",
+            ""transportation"": ""-"",
+            ""attraction"": ""New England Aquarium, Boston; Museum of Fine Arts, Boston"",
+            ""accommodation"": ""Luxurious Williamsburg Loft with Private Patio, Boston""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Boston to Jacksonville"",
+            ""transportation"": ""Flight Number: F3758178, from Boston to Jacksonville, Departure Time: 08:59, Arrival Time: 11:58"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-29 to 2022-03-31, for 2 people, traveling from Jacksonville to Boston with a budget of $1700. Accommodation must allow smoking. The room should be a(n) private room.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Jacksonville to Boston"",
+            ""transportation"": ""Flight Number: F3760931, from Jacksonville to Boston, Departure Time: 13:13, Arrival Time: 15:46"",
+            ""attraction"": ""Public Garden, Boston; Museum of Science, Boston; New England Aquarium, Boston"",
+            ""accommodation"": ""Welcome to YURT -- private room in East Village, Boston""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Boston"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Museum of Fine Arts, Boston; Boston Tea Party Ships & Museum; Boston Common"",
+            ""accommodation"": ""Welcome to YURT -- private room in East Village, Boston""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Boston to Jacksonville"",
+            ""transportation"": ""Flight Number: F3758178, from Boston to Jacksonville, Departure Time: 08:59, Arrival Time: 11:58"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-01 to 2022-03-03, for 3 people, traveling from Wilmington to Philadelphia with a budget of $2600. Accommodation must allow children. The room should be a(n) entire room.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from Wilmington to Philadelphia"",
+            ""transportation"": ""Flight Number: F3734959, from Wilmington to Philadelphia, Departure Time: 05:54, Arrival Time: 07:23"",
+            ""attraction"": ""The Franklin Institute, Philadelphia; Independence National Historical Park, Philadelphia."",
+            ""accommodation"": ""Brooklyn Room in Hip Neighborhood - Close to T..., Philadelphia""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Philadelphia"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Philadelphia's Magic Gardens, Philadelphia; Philadelphia Museum of Art, Philadelphia."",
+            ""accommodation"": ""Brooklyn Room in Hip Neighborhood - Close to T..., Philadelphia""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Philadelphia to Wilmington"",
+            ""transportation"": ""Flight Number: F3731330, from Philadelphia to Wilmington, Departure Time: 20:04, Arrival Time: 21:53"",
+            ""attraction"": ""Liberty Bell, Philadelphia."",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-12 to 2022-03-14, for 2 people, traveling from San Diego to Austin with a budget of $2700. Accommodation must allow smoking. The room should be a(n) entire room.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from San Diego to Austin"",
+            ""transportation"": ""Flight Number: F3949851, from San Diego to Austin, Departure Time: 06:40, Arrival Time: 11:12"",
+            ""attraction"": ""Texas Capitol, Austin; Zilker Metropolitan Park, Austin."",
+            ""accommodation"": ""Beautiful 3 bedroom apartment in East Williams..., Austin""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Austin"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Museum of the Weird, Austin; Cathedral of Junk, Austin."",
+            ""accommodation"": ""Beautiful 3 bedroom apartment in East Williams..., Austin""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Austin to San Diego"",
+            ""transportation"": ""Flight Number: F3976868, from Austin to San Diego, Departure Time: 06:33, Arrival Time: 07:24"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
+"Generate a 3-day travel itinerary from 2022-03-12 to 2022-03-14, for 2 people, traveling from San Diego to Austin with a budget of $2700. Accommodation must allow visitors. The room should be a(n) entire room.","{
+    ""plan"": [
+        {
+            ""day"": 1,
+            ""current_city"": ""from San Diego to Austin"",
+            ""transportation"": ""Flight Number: F3818649, from San Diego to Austin, Departure Time: 08:49, Arrival Time: 13:27"",
+            ""attraction"": ""Texas Capitol, Austin; Zilker Metropolitan Park, Austin."",
+            ""accommodation"": ""Entire 2 bedroom top floor in Clinton Hill, Austin""
+        },
+        {
+            ""day"": 2,
+            ""current_city"": ""Austin"",
+            ""transportation"": ""-"",
+            ""attraction"": ""Museum of the Weird, Austin; Cathedral of Junk, Austin."",
+            ""accommodation"": ""Entire 2 bedroom top floor in Clinton Hill, Austin""
+        },
+        {
+            ""day"": 3,
+            ""current_city"": ""from Austin to San Diego"",
+            ""transportation"": "" Flight Number: F3819015, from Austin to San Diego, Departure Time: 06:57, Arrival Time: 08:11"",
+            ""attraction"": ""-"",
+            ""accommodation"": ""-""
+        }
+    ]
+}"
+
